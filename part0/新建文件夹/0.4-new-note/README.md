@@ -1,0 +1,1 @@
+创建一个类似的图表，描述这种情况: 用户在页面上创建一个新的 Note，在文本区域写一些东西，然后点击提交按钮到 https://fullstack-exampleapp.herokuapp.com/notes。
